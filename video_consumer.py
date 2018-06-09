@@ -1,6 +1,6 @@
 """Kombu-based Video Stream Consumer
 
-Written by Minsu Jang (minsu@etri.re.kr)
+Written by Minsu Jang
 Date: 2018-06-09
 
 Reference
