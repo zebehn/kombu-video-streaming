@@ -34,13 +34,13 @@ This repo includes a simple program that shows how to deliver a video stream usi
     git clone https://github.com/zebehn/kombu-video-streaming.git
     cd kombu-video-streaming
     ```
-2. Run the video stream producer. You will see the webcam lights on if successful.
-    ```
-    python video_producer.py
-    ```
-3. Run the video stream consumer. You will see a window pops up and shows a video stream captured by your webcam if successful.
+2. Run the video stream consumer. As there is no message published yet, it just hangs around.
     ```
     python video_consumer.py
+    ```
+3. Run the video stream producer. You will see the webcam lights on, a window pops up and shows a video stream captured by your webcam if successful.
+    ```
+    python video_producer.py
     ```
 
 ## Speeding Up Message Delivery
