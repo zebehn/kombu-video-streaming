@@ -1,11 +1,11 @@
 """Kombu-based Video Stream Consumer
 
-Written by Minsu Jang (minsu@etri.re.kr)
+Written by Minsu Jang
 Date: 2018-06-09
 
 Reference
 - Building Robust RabbitMQ Consumers With Python and Kombu: Part 1 (https://medium.com/python-pandemonium/building-robust-rabbitmq-consumers-with-python-and-kombu-part-1-ccd660d17271)
-- Building Robust RabbitMQ Consumers With Python and Kombu: Part 1 (https://medium.com/python-pandemonium/building-robust-rabbitmq-consumers-with-python-and-kombu-part-2-e9505f56e12e)
+- Building Robust RabbitMQ Consumers With Python and Kombu: Part 2 (https://medium.com/python-pandemonium/building-robust-rabbitmq-consumers-with-python-and-kombu-part-2-e9505f56e12e)
 """
 
 import cv2
